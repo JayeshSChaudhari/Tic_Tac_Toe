@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.tickBox{
+    border: 2px solid red;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(114, 221, 233);
+    font-size: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

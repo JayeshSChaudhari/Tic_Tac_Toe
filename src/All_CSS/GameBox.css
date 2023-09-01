@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+
+}
+
+.hash {
+
+    display: grid;
+    place-items: center;
+    grid-template-columns: repeat(3, 92px);
+    grid-template-rows: repeat(3, 92px);
+}
+
+
+#info{
+    margin: auto;
+    height: 30px;
+    width: 255px;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
